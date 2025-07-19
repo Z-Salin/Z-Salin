@@ -1,70 +1,39 @@
 <div align="center">
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Mage%20Light%20Skin%20Tone.png" alt="Man Mage Light Skin Tone" width="50" height="55" />
 </div>
   <!-- DYNAMIC TYPING SVG -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+Zisan+👋;Software+Developer;Mobile+%7C+Web+%7C+Desktop;AI+%26+IoT+Enthusiast;Lifelong+Learner" alt="Typing SVG" /></a>
 
-  <h3 align="center">A self-driven software developer passionate about building smart, impactful technology. My mission is to contribute to the tech world by creating tools that matter.</h3>
+  <h3 align="center">Curious, purpose-driven developer crafting smart systems and meaningful automation that make a real difference !</h3>
 </div>
 
 <p align="center">
-    <a href="https://linkedin.com/in/mursalin7842" target="_blank">
+    <a href="https://linkedin.com">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://www.facebook.com/md.mursalinahmmed.3" target="_blank">
+    <a href="https://www.facebook.com/share/15enRH6ZdD/?mibextid=qi2Omg" target="_blank">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
     </a>
-    <a href="https://youtube.com/@mrfrog1778" target="_blank">
+    <a href="https://youtube.com/" target="_blank">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
     </a>
-    <a href="mailto:mursalin7842@gmail.com">
+    <a href="mailto:zisan1177@gmail.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
 </p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="Developer GIF" width="140" height="140"/>
+  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="Developer GIF" width="75" height="75"/>
 </div>
 
 <!-- PROJECTS SECTION -->
 <div align="center">
-  <h2 align="center">🏆 Featured Projects 🏆</h2>
+  <h2 align="center"> Featured Project </h2>
 </div>
 
 <table width="100%" border="0" cellpadding="10" bgcolor="#0d1117">
   <tr valign="top">
-    <!-- Project 1 -->
-    <td width="50%" style="border: 1px solid #30363d; border-radius: 8px; background-color: #161b22;">
-      <div align="center">
-        <h3><a href="#" style="color: #58a6ff; text-decoration: none;">GO Buddy</a></h3>
-        <p>An AI-powered productivity and project management application to streamline workflows.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
-          <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
-          <img src="https://img.shields.io/badge/MVVM-000000?style=flat-square&logo=android&logoColor=white" alt="MVVM"/>
-          <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini API"/>
-          <img src="https://img.shields.io/badge/Appwrite-FD366E?style=flat-square&logo=appwrite&logoColor=white" alt="Appwrite"/>
-        </p>
-      </div>
-    </td>
-    <!-- Project 2 -->
-    <td width="50%" style="border: 1px solid #30363d; border-radius: 8px; background-color: #161b22;">
-      <div align="center">
-        <h3><a href="#" style="color: #58a6ff; text-decoration: none;">NexiCoin</a></h3>
-        <p>A real-time cryptocurrency analysis tool providing market insights and investment profiling.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-          <img src="https://img.shields.io/badge/REST_APIs-000000?style=flat-square&logo=icloud&logoColor=white" alt="REST APIs"/>
-          <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
-          <img src="https://img.shields.io/badge/MVVM-000000?style=flat-square&logo=android&logoColor=white" alt="MVVM"/>
-        </p>
-      </div>
-    </td>
-  </tr>
-  <tr valign="top">
-    <!-- Project 3 -->
-    <td colspan="2" style="border: 1px solid #30363d; border-radius: 8px; background-color: #161b22;">
+    <td style="border: 1px solid #30363d; border-radius: 8px; background-color: #161b22;">
       <div align="center">
         <h3><a href="#" style="color: #58a6ff; text-decoration: none;">Smart Farming System</a></h3>
         <p>A comprehensive IoT & AI platform to manage and automate diverse agricultural operations, including agro, poultry, and cattle farms, featuring an AI suggestion system for fish farm optimization.</p>
@@ -81,10 +50,9 @@
 </table>
 
 <br>
-
 <!-- TECH STACK SECTION -->
 <div align="center">
-  <h2 align="center">🛠️ My Tech Arsenal 🛠️</h2>
+  <h2 align="center"> My Tech Arsenal </h2>
 </div>
 
 <table width="100%" border="0" cellpadding="10" bgcolor="#0d1117">
@@ -162,12 +130,12 @@
 
 <br>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif" alt="Developer GIF" width="70" height="70"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTg3aXBkbTg0OHAzYWlvb292c20xNG5qbXpybjVkY2h6cXJ3YjFoYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YYQ6sw8jt2HRxX4uVi/giphy.gif" alt="Developer GIF" width="120" height="100"/>
 </div>
 
 <!-- GITHUB STATS SECTION -->
 <div align="center">
-  <h2 align="center">📊 GitHub Analytics 📊</h2>
+  <h2 align="center"> GitHub Analytics </h2>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Z-Salin&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=58a6ff" alt="GitHub Stats" width="49%"/>
     <img src="https://nirzak-streak-stats.vercel.app/?user=Z-Salin&theme=github_dark&hide_border=true" alt="GitHub Streak" width="49%"/>
@@ -178,7 +146,7 @@
 
 <!-- TROPHIES SECTION -->
 <div align="center">
-  <h2 align="center">🏆 Trophies 🏆</h2>
+  <h2 align="center"> Trophies </h2>
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Z-Salin&theme=gruvbox&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
   </p>
