@@ -138,11 +138,7 @@
   <h2 align="center"> GitHub Analytics </h2>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Z-Salin&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=58a6ff" alt="GitHub Stats" width="49%"/>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=Z-Salin&theme=github_dark&hide_border=true" alt="GitHub Streak" width="49%"/>
-    <img src="https://komarev.com/ghpvc/?username=shamstajbir&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://wakatime.com/@018d3842-a0f3-4feb-b025-748009eee0b9">
-    <img src="https://wakatime.com/badge/user/018d3842-a0f3-4feb-b025-748009eee0b9.svg" alt="Total Time Coded" />
-  </a>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=Z-Salin&theme=github_dark&hide_border=true" alt="GitHub Streak" width="49%"/>  
   </p>
 </div>
 
