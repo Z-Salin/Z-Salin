@@ -137,7 +137,7 @@
 <div align="center">
   <h2 align="center">📊 GitHub Analytics 📊</h2>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Mursalin7842&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=58a6ff" alt="GitHub Stats" width="49%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Z-Salin&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=58a6ff" alt="GitHub Stats" width="49%"/>
     <img src="https://nirzak-streak-stats.vercel.app/?user=Mursalin7842&theme=github_dark&hide_border=true" alt="GitHub Streak" width="49%"/>
   </p>
 </div>
