@@ -18,7 +18,7 @@
 </div>
  <!-- About Section -->
 <div align="left">
-  <p>I am a Computer Science and Engineering student and aspiring Software Engineer with a strong focus on integrating AI with IoT and automation.
+  <p>I'm an aspiring Software Engineer with a strong focus on integrating AI with IoT and automation.
 I am passionate about bridging the gap between software systems and the physical world. My technical interests span from designing robust backend architectures and exploring cloud infrastructure to developing smart automation systems. I enjoy the challenge of building scalable, efficient solutions to real-world problems.</p>
 </div>
 
