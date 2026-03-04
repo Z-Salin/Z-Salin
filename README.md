@@ -2,7 +2,7 @@
 <div align="left">
   <h1>Hi, I'm Zisan Azad Salin </h1>
   <h2>Software Engineer | Tech Researcher | AI & IoT Integration</h2>
-  <h3 align="left">Researching the edge, building the core!</h3>
+  <h3 align="left">Researching the edge, Developing the core!</h3>
 </div>
  <!-- Social Media Section -->
 <div align="left">
