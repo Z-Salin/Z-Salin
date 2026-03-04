@@ -29,7 +29,7 @@ I am passionate about bridging the gap between software systems and the physical
 </div>
  <!-- Project Section -->
 <div align="center">
-  <h2 align="center"> Projects & Researches </h2>
+  <h2 align="center"> Project & Researches </h2>
 </div>
 
 <table width="100%" border="0" cellpadding="10" bgcolor="#0d1117">
